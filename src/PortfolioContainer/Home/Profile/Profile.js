@@ -10,7 +10,7 @@ export default function Profile() {
       'Enthusiastic Dev',
       'Full stack Developer',
       'MERN Stack Dev',
-      'React/React Native',
+      'React/React Redux',
     ],
     loop: {},
     typeSpeed: 50,
@@ -65,7 +65,7 @@ export default function Profile() {
               </h1>
             </span>
             <span className="profile-role-tagline">
-              Knack of building applications with front and back end operations.
+              “Work smart. Get things done. No nonsense.”
             </span>
           </div>
 
