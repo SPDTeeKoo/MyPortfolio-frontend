@@ -81,7 +81,7 @@ const Resume = (props) => {
       // duration: { fromDate: '2020', toDate: '2021' },
       link: 'https://github.com/SPDTeeKoo/SPD-Camp.git',
       description:
-        'An online review website designed to create, search and review different camping loaction around the world.',
+        'An online review website designed to create, search and review different camping location around the world.',
       subHeading:
         'Technologies Used:  Javascript, HTML, CSS, Bootstrap, Mongo DB, Express Js, Node.js',
     },
