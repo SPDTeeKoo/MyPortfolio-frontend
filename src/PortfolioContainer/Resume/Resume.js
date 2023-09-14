@@ -95,12 +95,13 @@ const Resume = (props) => {
         'Technologies Used: Mongo DB, Epress Js, React Js, Node JS, Redux, Javascript.',
     },
     {
-      title: 'Personal Portfolio Website',
+      title: 'E-commerce Website',
       // duration: { fromDate: '2020', toDate: '2021' },
       link: 'https://gold-lonely-chick.cyclic.cloud/',
       description:
         'E-commerce website where you can buy various products as a buyer as well as sell products as a seller',
-      subHeading: 'Technologies Used: React JS, Bootsrap',
+      subHeading:
+        'Technologies Used: React JS, Context API, MongoDB, Node.js, Javascript, Bootsrap',
     },
   ];
 
