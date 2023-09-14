@@ -97,8 +97,9 @@ const Resume = (props) => {
     {
       title: 'Personal Portfolio Website',
       // duration: { fromDate: '2020', toDate: '2021' },
+      link: 'https://gold-lonely-chick.cyclic.cloud/',
       description:
-        'A Personal Portfolio website to showcase all my details and projects at one place.',
+        'E-commerce website where you can buy various products as a buyer as well as sell products as a seller',
       subHeading: 'Technologies Used: React JS, Bootsrap',
     },
   ];
