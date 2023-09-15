@@ -235,3 +235,28 @@
     width: 100%;
   }
 }
+
+@media only screen and (max-width: 550px) {
+  .resume-description-text {
+    font-size: 10px;
+  }
+  .experience-description {
+    margin: -10px 0 -5px 0;
+    line-height: 1;
+  }
+  .heading-date {
+    padding: 5px 2px 5px;
+    font-size: 10px;
+  }
+  .resume-sub-heading {
+    font-size: 12px;
+    margin: -1px 0 10px 0;
+  }
+  .resume-main-heading span {
+    font-size: 14px;
+  }
+  .heading-link a {
+    position: relative;
+    right: -100px;
+  }
+}
