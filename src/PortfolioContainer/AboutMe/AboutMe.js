@@ -19,8 +19,8 @@ export default function AboutMe(props) {
       bullets: [
         'Full Stack web development',
         'Interactive Front End as per the design',
-        'React and React Native',
-        'Redux for State Mnanagement',
+        'React.js & jQuery',
+        'Redux & Context API for State Mnanagement',
         'Building REST API',
         'Managing database',
       ],
