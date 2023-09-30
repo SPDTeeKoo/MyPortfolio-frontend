@@ -144,15 +144,14 @@ const Resume = (props) => {
         </div> */}
         <div className="experience-description">
           <span className="resume-description-text">
-            Took initiative to develop a web-based dashboard using React and
-            MySQL for monitoring and analyzing products and workers status data,
-            which significantly improved data accessibility and decisionmaking
-            processes. Design and created a sample management platform using
-            technologies like React, Node.js and Material UI. Helped evolve
-            front-end and back-end stack of company website infrastructure.
-            Collaborated with cross-functional teams to design and optimize
-            mechanical systems, enhancing product performance and reducing
-            production costs.
+            Developed a web-based dashboard using React and MySQL for monitoring
+            and analyzing products and workers status data, which significantly
+            improved data accessibility and decisionmaking processes. Designed
+            and created a sample management platform using technologies like
+            React, Node.js and Material UI. Helped evolve front-end and back-end
+            stack of company website infrastructure. Collaborated with
+            cross-functional teams to design and optimize mechanical systems,
+            enhancing product performance and reducing production costs.
           </span>
           {/* <br />
           <span className="resume-description-text">
